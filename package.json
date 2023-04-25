@@ -25,7 +25,7 @@
   "license": "MIT",
   "devDependencies": {
     "@ls-lint/ls-lint": "^1.11.2",
-    "cspell": "^5.21.2",
+    "cspell": "^6.31.1",
     "js-yaml": "^4.1.0",
     "markdownlint-cli": "^0.31.1",
     "node-fetch": "^3.2.6",
